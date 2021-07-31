@@ -10,3 +10,6 @@ sudo apt -y install shotwell
 
 - add in "Guest User" account
 sudo apt install lightdm
+
+- add OBS
+https://obsproject.com/wiki/install-instructions#ubuntumint-installation
