@@ -27,3 +27,7 @@ https://obsproject.com/wiki/install-instructions#ubuntumint-installation
 - add Inkscape
 
 sudo apt install inkscape
+
+- add VLC
+
+sudo apt install vlc
