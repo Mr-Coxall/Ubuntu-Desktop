@@ -14,6 +14,16 @@ sudo apt -y install shotwell
 
 sudo apt install lightdm
 
+- add Kdenlive (video editor)
+
+sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+sudo apt update
+sudo apt install kdenlive
+
 - add OBS
 
 https://obsproject.com/wiki/install-instructions#ubuntumint-installation
+
+- add Inkscape
+
+sudo apt install inkscape
