@@ -20,9 +20,9 @@ sudo add-apt-repository ppa:kdenlive/kdenlive-stable
 sudo apt update
 sudo apt install kdenlive
 
-- add OBS
+- add simplescreenrecorder
 
-https://obsproject.com/wiki/install-instructions#ubuntumint-installation
+sudo apt-get install simplescreenrecorder
 
 - add Inkscape
 
