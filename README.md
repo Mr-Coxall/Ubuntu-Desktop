@@ -28,6 +28,6 @@ sudo apt-get install simplescreenrecorder
 
 sudo apt install inkscape
 
-- add VLC
+- add SMPlayer
 
-sudo apt install vlc
+sudo apt install smplayer
