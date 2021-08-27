@@ -28,8 +28,7 @@ sudo apt-get install simplescreenrecorder
 
 sudo apt install inkscape
 
-- add SMPlayer
-
-sudo apt install smplayer
 
 For audio buzz try this: https://www.youtube.com/watch?v=UNhJCD9H8Uw
+
+For video editiong: sudo apt install kdenlive
