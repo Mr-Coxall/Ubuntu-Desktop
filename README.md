@@ -13,6 +13,7 @@ sudo apt -y install shotwell
 - add in "Guest User" account
 
 sudo apt install lightdm
+sudo sh -c 'printf "[Seat:*]\nallow-guest=true\n" > /etc/lightdm/lightdm.conf.d/40-enable-guest.conf'
 
 - add simplescreenrecorder
 
