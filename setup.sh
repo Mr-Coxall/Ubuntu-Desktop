@@ -15,7 +15,7 @@ sudo snap install mu-editor --edge
 sudo snap install gimp
 sudo snap install inkscape
 sudo snap install tiled
-snap install shotcut
+sudo snap install shotcut
 sudo snap install vlc
 
 sudo usermod -a -G dialout mr-coxall
