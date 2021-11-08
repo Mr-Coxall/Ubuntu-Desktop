@@ -11,8 +11,16 @@ sudo apt install -y ./imager_latest_amd64.deb
 
 sudo snap install code --classic
 sudo snap install arduino
-sudo snap install gimp
-sudo snap install tiled
 sudo snap install mu-editor --edge
+sudo snap install android-studio --classic
+snap install notepad-plus-plus
+sudo snap install gimp
+sudo snap install inkscape
+sudo snap install tiled
+snap install shotcut
+sudo snap install vlc
+sudo snap install snap-store
 
 sudo usermod -a -G dialout mr-coxall
+
+//sudo snap install beekeeper-studio
