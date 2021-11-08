@@ -19,8 +19,5 @@ sudo snap install inkscape
 sudo snap install tiled
 snap install shotcut
 sudo snap install vlc
-sudo snap install snap-store
 
 sudo usermod -a -G dialout mr-coxall
-
-//sudo snap install beekeeper-studio
