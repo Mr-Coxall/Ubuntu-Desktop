@@ -6,14 +6,12 @@ sudo sh -c 'printf "[Seat:*]\nallow-guest=true\n" > /etc/lightdm/lightdm.conf.d/
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install -y ./google-chrome-stable_current_amd64.deb
 
-https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
+wget https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
 sudo apt install -y ./imager_latest_amd64.deb
 
 sudo snap install code --classic
 sudo snap install arduino
 sudo snap install mu-editor --edge
-sudo snap install android-studio --classic
-snap install notepad-plus-plus
 sudo snap install gimp
 sudo snap install inkscape
 sudo snap install tiled
