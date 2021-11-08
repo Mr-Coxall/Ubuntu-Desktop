@@ -14,3 +14,5 @@ sudo snap install arduino
 sudo snap install gimp
 sudo snap install tiled
 sudo snap install mu-editor --edge
+
+sudo usermod -a -G dialout mr-coxall
