@@ -1,4 +1,5 @@
 sudo apt-get install -y freerdp2-x11
+sudo apt-get install neofetch
 
 sudo apt install -y lightdm
 sudo sh -c 'printf "[Seat:*]\nallow-guest=true\n" > /etc/lightdm/lightdm.conf.d/40-enable-guest.conf'
