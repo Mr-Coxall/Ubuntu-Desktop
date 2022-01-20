@@ -32,3 +32,7 @@ For video editiong: sudo apt install kdenlive
 Video player:
 
  - sudo snap install vlc
+
+Cisco Packet Tracer 
+  - https://drive.google.com/drive/folders/1S_KMiTzqXx424wBleQXc8d2f-7aay5m2?usp=sharing
+  - 
